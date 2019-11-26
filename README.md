@@ -6,4 +6,4 @@ if you are not installed toilet before launching script, re launch the script af
 
 # IMPORTANT
 
-Run script as root
+Run script as ROOT
